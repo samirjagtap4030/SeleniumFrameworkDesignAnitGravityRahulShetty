@@ -1,0 +1,26 @@
+2026-01-31 14:15:32.666 [TestNG-tests-1] INFO  rahulshettyacademy.TestComponents.BaseTest - Starting SubmitOrderTest for product: ZARA COAT 3
+2026-01-31 14:26:13.300 [TestNG-tests-1] INFO  rahulshettyacademy.TestComponents.BaseTest - Starting SubmitOrderTest for product: ZARA COAT 3
+2026-01-31 14:26:13.802 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Logged in with email: postman4075@gmail.com
+2026-01-31 14:26:14.065 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Element appeared: By.cssSelector: .mb-3
+2026-01-31 14:26:14.341 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Added product to cart: ZARA COAT 3
+2026-01-31 14:26:14.407 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Element appeared: By.cssSelector: #toast-container
+2026-01-31 14:26:28.648 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Element appeared: By.cssSelector: .ta-results
+2026-01-31 14:26:28.760 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Selected country: india
+2026-01-31 14:26:28.857 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Order submitted
+2026-01-31 15:23:16.044 [TestNG-tests-1] INFO  rahulshettyacademy.TestComponents.BaseTest - Starting SubmitOrderTest for product: ZARA COAT 3
+2026-01-31 15:23:16.398 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Logged in with email: postman4075@gmail.com
+2026-01-31 15:23:16.736 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Element appeared: By.cssSelector: .mb-3
+2026-01-31 15:23:16.942 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Added product to cart: ZARA COAT 3
+2026-01-31 15:23:16.993 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Element appeared: By.cssSelector: #toast-container
+2026-01-31 15:23:35.775 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Element appeared: By.cssSelector: .ta-results
+2026-01-31 15:23:35.972 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Selected country: india
+2026-01-31 15:23:36.136 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Order submitted
+2026-01-31 15:23:39.630 [TestNG-tests-1] INFO  rahulshettyacademy.TestComponents.BaseTest - Starting loginErrorValidation
+2026-01-31 15:23:45.738 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Logged in with email: anshika@gmail.com
+2026-01-31 15:23:46.020 [TestNG-tests-1] INFO  rahulshettyacademy.TestComponents.BaseTest - Verified error message successfully
+2026-01-31 15:23:53.028 [TestNG-tests-1] INFO  rahulshettyacademy.TestComponents.BaseTest - Starting productErrorValidation for: ZARA COAT 3
+2026-01-31 15:23:53.351 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Logged in with email: postman4075@gmail.com
+2026-01-31 15:23:53.671 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Element appeared: By.cssSelector: .mb-3
+2026-01-31 15:23:53.869 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Added product to cart: ZARA COAT 3
+2026-01-31 15:23:53.926 [TestNG-tests-1] INFO  rahulshettyacademy.AbstractComponents.AbstractComponent - Element appeared: By.cssSelector: #toast-container
+2026-01-31 15:24:07.426 [TestNG-tests-1] INFO  rahulshettyacademy.TestComponents.BaseTest - Verified product mismatch successfully
